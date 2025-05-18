@@ -15,7 +15,8 @@ A simple C# console app that scans food barcodes via the OpenFoodFacts API and f
 
 ## To Do List 📝
 
-- [ ] Create a slick desktop app with UI  
+- [x] Create a primitive desktop app with UI
+- [ ] Update the look of the desktop app   
 - [ ] Convert the desktop app into a mobile app (iOS & Android)  
 - [ ] Find or build a better, more reliable food additives database  
 - [ ] Implement barcode scanning with OCR for easy input  
